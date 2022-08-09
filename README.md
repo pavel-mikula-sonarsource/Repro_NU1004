@@ -1,5 +1,11 @@
 # Repro_NU1004
 
+## Structure
+
+`Net6Root` project targets `net6` and reference `Net46Reference` SDK-style project targeting `net46`.
+
+## Restore
+
 ```
 nuget restore Repro_NU1004.sln -LockedMode
 ```
