@@ -2,7 +2,7 @@
 
 ## Structure
 
-`Net6Root` project targets `net6` and reference `Net46Reference` SDK-style project targeting `net46`.
+`Net6Root` project targets `net6` and references `Net46Reference` SDK-style project targeting `net46`.
 
 ## Restore
 
